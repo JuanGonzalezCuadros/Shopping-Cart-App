@@ -16,7 +16,7 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/shopping-cart-app.git
+   git clone https://github.com/JuanGonzalezCuadros/Shopping-Cart-App
 2. Install dependencies:
    ```bash
    cd shopping-cart-app
